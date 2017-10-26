@@ -5,7 +5,7 @@ Mini-Project 4 - Kernelized Ridge Regression
 ![image](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 # Google Doc Link
-[Click Here to view the google doc](https://docs.google.com/document/d/1UKndthaj_H_sX9yr6HnQQiEabqgy3gWciTrRoQ_v8Mg/edit)
+[Click Here to view the google doc](https://docs.google.com/document/d/1UKndthaj_H_sX9yr6HnQQiEabqgy3gWciTrRoQ_v8Mg/edit?usp=sharing)
 
 ## Contributor
 1. [Cheng Yuan](https://github.com/Cheng-Yuan-0124/)
